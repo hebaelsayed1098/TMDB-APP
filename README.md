@@ -1,3 +1,3 @@
 # TMDB-APP
 ## run the app
-you need to install Expo Go App to run the application
+we bulid this application using Exp so you need to install Expo Go App to run the application
